@@ -1,0 +1,2 @@
+class ExistenceController < ApplicationController
+end

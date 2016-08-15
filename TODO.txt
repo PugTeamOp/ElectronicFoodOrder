@@ -1,4 +1,4 @@
-- Ordenar
+﻿- Ordenar
 - Dividir ordenes
 - Menu
 - Facturación
@@ -17,7 +17,7 @@ Modelo "Menu"
 
 Modelo "Promociones"
 
-Modelo "AsientosDisponibles"
+Modelo "AsientosDisponibles"--
   Modelo "Clientes"
     Modelo "Pedidos"
       Modelo "Cuenta"

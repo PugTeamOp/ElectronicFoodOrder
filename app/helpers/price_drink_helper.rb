@@ -1,0 +1,2 @@
+module PriceDrinkHelper
+end

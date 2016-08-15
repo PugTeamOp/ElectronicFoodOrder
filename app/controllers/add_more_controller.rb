@@ -1,0 +1,2 @@
+class AddMoreController < ApplicationController
+end

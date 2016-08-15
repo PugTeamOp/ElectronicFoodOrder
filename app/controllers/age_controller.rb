@@ -1,0 +1,2 @@
+class AgeController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class DayCategoryController < ApplicationController
+end

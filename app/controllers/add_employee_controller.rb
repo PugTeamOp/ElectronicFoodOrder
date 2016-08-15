@@ -1,0 +1,2 @@
+class AddEmployeeController < ApplicationController
+end

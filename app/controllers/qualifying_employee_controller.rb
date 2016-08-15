@@ -1,0 +1,2 @@
+class QualifyingEmployeeController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class DessertController < ApplicationController
+end

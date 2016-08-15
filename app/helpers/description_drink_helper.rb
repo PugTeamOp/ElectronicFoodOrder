@@ -1,0 +1,2 @@
+module DescriptionDrinkHelper
+end

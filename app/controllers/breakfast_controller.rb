@@ -1,0 +1,2 @@
+class BreakfastController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class SpecialDrinkController < ApplicationController
+end
