@@ -20,8 +20,6 @@ Modelo "Promociones"
 Modelo "AsientosDisponibles"
   Modelo "Clientes"
     Modelo "Pedidos"
-      Modelo "Cuenta"
-        Modelo "Tiene platillos"
 
 // Vista del vendedor //
 
@@ -30,8 +28,6 @@ Modelo "Inventario"
 
 Modelo "Pedidos"
   Modelo "Platillos y bebidas"
-  Modelo "Cuenta"
-   Ticket de venta
 
                                                                       ===================
                                                                       = COSAS POR HACER =
