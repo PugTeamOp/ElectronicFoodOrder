@@ -12,9 +12,6 @@ Rails.application.configure do
   # preloads Rails for running tests, you may have to set it to true.
   config.eager_load = false
 
-  # Default server for mailer TODO La linea 17 de código modifíquenla dependiendo de su host y el puerto en el que trabajen
-  config.action_mailer.default_url_options = { host: '192.168.1.82:80' }
-
   # Configure static file server for tests with Cache-Control for performance.
   config.serve_static_files   = true
   config.static_cache_control = 'public, max-age=3600'
