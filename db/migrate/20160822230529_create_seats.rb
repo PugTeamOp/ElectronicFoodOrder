@@ -3,6 +3,7 @@ class CreateSeats < ActiveRecord::Migration
     create_table :seats do |t|
       t.string :name
       t.reference :employee
+      t.reference :client
 
       t.timestamps null: false
     end

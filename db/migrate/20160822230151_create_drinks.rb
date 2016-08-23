@@ -5,6 +5,7 @@ class CreateDrinks < ActiveRecord::Migration
       t.text :description
       t.decimal :price
       t.reference :category
+      t.reference :order
 
       t.timestamps null: false
     end

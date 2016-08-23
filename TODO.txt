@@ -17,8 +17,8 @@ Modelo "Menu"
 
 Modelo "Promociones"
 
-Modelo "AsientosDisponibles"
-  Modelo "Clientes"
+Modelo "Clientes"
+  Modelo "AsientosDisponibles"
     Modelo "Pedidos"
 
 // Vista del vendedor //
