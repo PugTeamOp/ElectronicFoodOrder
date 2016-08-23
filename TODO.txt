@@ -32,12 +32,18 @@ Modelo "Pedidos"
                                                                       ===================
                                                                       = COSAS POR HACER =
                                                                       ===================
-SISTEMA DE ORDEN DEL LADO DEL VENDEDOR
 - Nombre para el proyecto
-- Crear un menu y sus relaciones
-- Crear el modelo de pedidos
-- Crear cuentas
+
+SISTEMA DE ORDEN DEL LADO DEL VENDEDOR
+- Niveles de usuario
+- Poder inicializar, modificar, vaciar y exportar bases de datos
+- Poder ver y revisar sus clientes y sus respectivas ordenes
+- Poder crear ordenes desde el punto de ventas
 
 SISTEMA DE ORDEN DEL LADO DEL CLIENTE
 - Crear modelo de asientos disponibles y ubicaciones
 - Sistema de orden para clientes
+  - Cliente tenga un menu en su interfaz
+  - Cliente pueda seleccionar categorias de su menu
+  - Cliente pueda revisar platillos y bebidas
+  - Cliente pueda agregar alimentos a la orden
