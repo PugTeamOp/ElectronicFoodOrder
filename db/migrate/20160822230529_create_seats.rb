@@ -2,8 +2,8 @@ class CreateSeats < ActiveRecord::Migration
   def change
     create_table :seats do |t|
       t.string :name
-      t.references :employee
-      t.references :client
+      t.reference :employee
+      t.reference :client
 
       t.timestamps null: false
     end
